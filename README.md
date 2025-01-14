@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет, я Иван! 👋
 
-<!--
-**LisovskiyIvan/LisovskiyIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Фулстек Веб-разработчик
 
-Here are some ideas to get you started:
+### О себе
+Пишу код, который работает, пакую в докер и заливаю в облако.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Технологии
+#### Frontend:
+- HTML5, CSS3, JavaScript
+- React.js, Vue.js
+- TypeScript
+- Mobx, Jotai
+- TailwindCSS
+
+#### Backend:
+- Node.js
+- NestJS, ElysiaJs
+- PostgreSQL, SQLite
+- Prisma
+- REST API
+
+### Инструменты
+- Git
+- Docker
+- Webpack, Vite
+- nginx
+
+
+
+### Важное 📫
+- Email: [daymedead.dev@gmail.com]
+- web: [https://daymedead.fun] - Мой личный сайт-портфолио
+- planetify: [https://planetify.space] - Веб-приложение для заметок и досок канбан
+- dayme: [https://www.npmjs.com/package/dayme] - npm пакет для генерации новых проектов на основе шаблонов(как Vite только под себя)
