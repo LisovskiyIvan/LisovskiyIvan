@@ -7,8 +7,7 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LisovskiyIvan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+### 📊 О себе в цифрах:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LisovskiyIvan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LisovskiyIvan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
